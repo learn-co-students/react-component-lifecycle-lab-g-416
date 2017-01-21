@@ -15,7 +15,7 @@ class App extends React.Component {
     this.updateChart = this.updateChart.bind(this);
     this.fetchTweets = this.fetchTweets.bind(this);
   }
-
+//nice
   componentWillMount() {
     this.fetchTweets();
   }
